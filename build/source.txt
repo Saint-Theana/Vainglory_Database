@@ -1,0 +1,12 @@
+/sdcard/AppProjects/test/src/com/test/ActorStore.java
+/sdcard/AppProjects/test/src/com/test/ExtraThread.java
+/sdcard/AppProjects/test/src/com/test/Keystore.java
+/sdcard/AppProjects/test/src/com/test/Main.java
+/sdcard/AppProjects/test/src/com/test/MainThread.java
+/sdcard/AppProjects/test/src/com/test/PullMatchesByName.java
+/sdcard/AppProjects/test/src/com/test/RosterStore.java
+/sdcard/AppProjects/test/src/com/test/SqlExecutor.java
+/sdcard/AppProjects/test/src/com/test/SqlFactory.java
+/sdcard/AppProjects/test/src/com/test/SqlListener.java
+/sdcard/AppProjects/test/src/com/test/Util.java
+/sdcard/AppProjects/test/src/com/test/VipThread.java
